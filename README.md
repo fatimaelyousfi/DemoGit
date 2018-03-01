@@ -1,6 +1,6 @@
 # DemoGit
 this repository for formation
-This is an Github tag ![Github](/destock/git.png)
+This is an Github tag ![Github](https://git-scm.com/images/logos/2color-lightbg@2x.png)
 * formation github :woman:
   *d'une journée
   *création d'un projet sur github:
