@@ -30,3 +30,7 @@ git init                  | git log
 creation de branche                   | supprimer un fichier| annuler le dernier commit
 --------------------------------------|---------------------|--------------------------
 git branch nom / git checkout nom     | git reset           | git reset --hard
+
+**creation de branche**                   | **supprimer un fichier**| **annuler le dernier commit**
+--------------------------------------|---------------------|--------------------------
+git branch nom / git checkout nom     | git reset           | git reset --hard
